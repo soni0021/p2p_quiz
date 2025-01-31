@@ -12,7 +12,7 @@
 - **Database Management**: PostgreSQL, Prisma ORM
 - **Frontend Development**: Next.js, Redux, Tailwind CSS
 
-**Resume Highlights:**
+**Highlights:**
 - Engineered a peer-to-peer video platform with WebRTC and Socket.io for 10+ users.
 - Designed a scalable backend using TypeScript, Express.js, and PostgreSQL.
 - Developed a responsive front-end enhancing user experience with real-time messaging.
